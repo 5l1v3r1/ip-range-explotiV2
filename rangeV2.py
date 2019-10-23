@@ -72,5 +72,5 @@ def main():
         revLook(firstRun)
 main()
 def viewDNS():
-os.system('python viewdns.py')
+        os.system('python viewdns.py')
 viewDNS()
